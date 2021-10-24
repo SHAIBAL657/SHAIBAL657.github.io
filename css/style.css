@@ -1,0 +1,104 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-container{
+    background-color: #7f56c1e5;
+}
+
+.banner-column{
+    background-color: #7f56c1;
+}
+
+.navbar-container{
+    top: 0;
+    background-color: #102040;
+    position: sticky;
+    z-index: 2;
+}
+
+.about-container{
+   background-color: #E91E63;
+}
+
+.edutext{
+    text-decoration: none;
+    color: black;
+}
+
+.btn-bluetype{
+    background-color: #102040;
+}
+
+.fa{
+    color: #E91E63;
+}
+
+.education-container{
+    background-color: #EEEEEE;
+}
+
+.bg-redtype{
+    background-color: #E91E63;
+}
+
+.bg-redtype:hover{
+     color: black!important;
+}
+
+.redcolor{
+    background-color: #E91E63;
+}
+
+.redtype-color{
+    color: #E91E63;
+}
+
+.circle-edu{
+    background-color: #E91E63;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    text-align: center;
+     
+}
+
+.project-container{
+    background-color: #a81e6a;
+}
+
+.form-container{
+    background-color: #474D5D;
+}
+
+.bummy-box{
+    font-size: 72px;
+}
+
+.inner-form{
+    background-color: #585F73;
+}
+
+.footer{
+    background-color: #2BB3DD;
+}
+.dark{
+    color: dark;
+}
+.circle{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: white;
+  font-size: 40px;
+  text-align: center;
+  color: black;
+  text-decoration: none;
+}
+.circle:hover{
+     
+    background-color: #474D5D;
+  
+  
+  }
